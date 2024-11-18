@@ -7,6 +7,8 @@ sites:
     url: https://www.mediashd.com
   - name: ISNAD Citation Style
     url: https://isnadsistemi.org
+  - name: ISNAD Citation Style
+    url: https://ojs.mediashd.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
