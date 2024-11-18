@@ -7,7 +7,7 @@ sites:
     url: https://www.mediashd.com
   - name: ISNAD Citation Style
     url: https://isnadsistemi.org
-  - name: Media Shd. OJS Services
+  - name: OJS Services
     url: https://ojs.mediashd.com
 
 status-website:
