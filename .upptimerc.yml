@@ -14,7 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /shd-service-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Media Shd. Service Status Monitor
   introTitle: "**Media Shd.** Service Status Monitor"
   introMessage: Real-time updates on Media Shd. services uptime, incidents, and maintenance schedules.
   navbar:
