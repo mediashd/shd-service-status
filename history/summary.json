@@ -22,19 +22,19 @@
     "url": "https://isnadsistemi.org",
     "icon": "https://icons.duckduckgo.com/ip3/isnadsistemi.org.ico",
     "slug": "isnad-citation-style",
-    "status": "down",
-    "uptime": "98.05%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
-    "time": 2184,
-    "timeDay": 2184,
-    "timeWeek": 2184,
-    "timeMonth": 2184,
-    "timeYear": 2184,
+    "status": "up",
+    "uptime": "67.07%",
+    "uptimeDay": "67.07%",
+    "uptimeWeek": "67.07%",
+    "uptimeMonth": "67.07%",
+    "uptimeYear": "67.07%",
+    "time": 2244,
+    "timeDay": 2244,
+    "timeWeek": 2244,
+    "timeMonth": 2244,
+    "timeYear": 2244,
     "dailyMinutesDown": {
-      "2024-11-19": 3
+      "2024-11-19": 62
     }
   },
   {
