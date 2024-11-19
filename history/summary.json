@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/isnadsistemi.org.ico",
     "slug": "isnad-citation-style",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "98.05%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.05%",
     "time": 2184,
     "timeDay": 2184,
     "timeWeek": 2184,
     "timeMonth": 2184,
     "timeYear": 2184,
     "dailyMinutesDown": {
-      "2024-11-19": 0
+      "2024-11-19": 3
     }
   },
   {
