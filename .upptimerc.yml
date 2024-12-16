@@ -9,6 +9,8 @@ sites:
     url: https://isnadsistemi.org
   - name: OJS Services
     url: https://ojs.mediashd.com
+  - name: Yazım Desteği
+    url: https://yazimdestegi.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
