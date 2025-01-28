@@ -4,10 +4,10 @@
     "url": "https://www.mediashd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mediashd.com.ico",
     "slug": "media-shd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1183,
@@ -16,6 +16,7 @@
     "timeMonth": 1175,
     "timeYear": 1183,
     "dailyMinutesDown": {
+      "2025-01-28": 1,
       "2024-11-26": 18
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://isnadsistemi.org",
     "icon": "https://icons.duckduckgo.com/ip3/isnadsistemi.org.ico",
     "slug": "isnad-citation-style",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -36,6 +37,7 @@
     "timeMonth": 2783,
     "timeYear": 2678,
     "dailyMinutesDown": {
+      "2025-01-28": 0,
       "2024-11-19": 62
     }
   },
@@ -45,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ojs.mediashd.com.ico",
     "slug": "ojs-services",
     "status": "down",
-    "uptime": "24.18%",
+    "uptime": "24.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.18%",
+    "uptimeYear": "24.08%",
     "time": 674,
     "timeDay": 587,
     "timeWeek": 623,
     "timeMonth": 633,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-01-28": 105,
+      "2025-01-28": 522,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -118,18 +120,20 @@
     "url": "https://yazimdestegi.com",
     "icon": "https://icons.duckduckgo.com/ip3/yazimdestegi.com.ico",
     "slug": "yazim-destegi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2131,
-    "timeDay": 2998,
-    "timeWeek": 2347,
-    "timeMonth": 2150,
-    "timeYear": 2131,
-    "dailyMinutesDown": {}
+    "time": 2136,
+    "timeDay": 2790,
+    "timeWeek": 2350,
+    "timeMonth": 2157,
+    "timeYear": 2136,
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "Oku Okut",
