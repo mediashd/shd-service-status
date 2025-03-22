@@ -48,7 +48,7 @@
     "uptime": "38.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.88%",
+    "uptimeMonth": "38.87%",
     "uptimeYear": "38.60%",
     "time": 674,
     "timeDay": 561,
@@ -56,7 +56,7 @@
     "timeMonth": 650,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-03-22": 1369,
+      "2025-03-22": 1375,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -141,19 +141,19 @@
     "url": "https://yazimdestegi.com",
     "icon": "https://icons.duckduckgo.com/ip3/yazimdestegi.com.ico",
     "slug": "yazim-destegi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 2226,
-    "timeDay": 1725,
-    "timeWeek": 2033,
-    "timeMonth": 2230,
-    "timeYear": 2226,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2228,
+    "timeDay": 2047,
+    "timeWeek": 2075,
+    "timeMonth": 2235,
+    "timeYear": 2228,
     "dailyMinutesDown": {
-      "2025-03-22": 4
+      "2025-03-22": 10
     }
   },
   {
@@ -161,19 +161,19 @@
     "url": "https://okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/okuokut.org.ico",
     "slug": "oku-okut",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 4696,
-    "timeDay": 3714,
-    "timeWeek": 6263,
-    "timeMonth": 4948,
-    "timeYear": 4696,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4689,
+    "timeDay": 4022,
+    "timeWeek": 6021,
+    "timeMonth": 4926,
+    "timeYear": 4689,
     "dailyMinutesDown": {
-      "2025-03-22": 3
+      "2025-03-22": 9
     }
   },
   {
@@ -181,19 +181,19 @@
     "url": "https://yayin.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/yayin.okuokut.org.ico",
     "slug": "oku-okut-publishing",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 2732,
-    "timeDay": 2161,
-    "timeWeek": 4502,
-    "timeMonth": 2918,
-    "timeYear": 2732,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 2722,
+    "timeDay": 2171,
+    "timeWeek": 4212,
+    "timeMonth": 2892,
+    "timeYear": 2722,
     "dailyMinutesDown": {
-      "2025-03-22": 15
+      "2025-03-22": 20
     }
   },
   {
@@ -201,19 +201,19 @@
     "url": "https://sempozyum.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/sempozyum.okuokut.org.ico",
     "slug": "tsbs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2018,
-    "timeDay": 1377,
-    "timeWeek": 1668,
+    "time": 2014,
+    "timeDay": 1570,
+    "timeWeek": 1680,
     "timeMonth": 1763,
-    "timeYear": 2018,
+    "timeYear": 2014,
     "dailyMinutesDown": {
-      "2025-03-22": 13
+      "2025-03-22": 19
     }
   }
 ]
