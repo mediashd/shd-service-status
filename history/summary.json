@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ojs.mediashd.com.ico",
     "slug": "ojs-services",
     "status": "down",
-    "uptime": "38.87%",
+    "uptime": "38.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.75%",
-    "uptimeYear": "38.87%",
+    "uptimeMonth": "38.91%",
+    "uptimeYear": "38.60%",
     "time": 674,
     "timeDay": 561,
     "timeWeek": 607,
     "timeMonth": 650,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-03-22": 113,
+      "2025-03-22": 1357,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
@@ -177,10 +177,10 @@
     "url": "https://yayin.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/yayin.okuokut.org.ico",
     "slug": "oku-okut-publishing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2732,
@@ -188,16 +188,18 @@
     "timeWeek": 4502,
     "timeMonth": 2918,
     "timeYear": 2732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-22": 2
+    }
   },
   {
     "name": "TSBS",
     "url": "https://sempozyum.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/sempozyum.okuokut.org.ico",
     "slug": "tsbs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,6 +208,8 @@
     "timeWeek": 1668,
     "timeMonth": 1763,
     "timeYear": 2018,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-22": 0
+    }
   }
 ]
