@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ojs.mediashd.com.ico",
     "slug": "ojs-services",
     "status": "down",
-    "uptime": "34.40%",
+    "uptime": "34.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.40%",
+    "uptimeYear": "34.21%",
     "time": 671,
     "timeDay": 639,
     "timeWeek": 696,
     "timeMonth": 632,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2025-04-07": 120,
+      "2025-04-07": 1264,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -157,46 +157,50 @@
     "url": "https://yazimdestegi.com",
     "icon": "https://icons.duckduckgo.com/ip3/yazimdestegi.com.ico",
     "slug": "yazim-destegi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2231,
     "timeDay": 2026,
     "timeWeek": 2306,
     "timeMonth": 2222,
     "timeYear": 2231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 5
+    }
   },
   {
     "name": "Oku Okut",
     "url": "https://okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/okuokut.org.ico",
     "slug": "oku-okut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 4498,
     "timeDay": 3235,
     "timeWeek": 3742,
     "timeMonth": 4502,
     "timeYear": 4498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 3
+    }
   },
   {
     "name": "Oku Okut Publishing",
     "url": "https://yayin.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/yayin.okuokut.org.ico",
     "slug": "oku-okut-publishing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 2613,
@@ -205,6 +209,7 @@
     "timeMonth": 2771,
     "timeYear": 2613,
     "dailyMinutesDown": {
+      "2025-04-07": 2,
       "2025-03-22": 20
     }
   },
@@ -213,9 +218,9 @@
     "url": "https://sempozyum.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/sempozyum.okuokut.org.ico",
     "slug": "tsbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -225,6 +230,7 @@
     "timeMonth": 1786,
     "timeYear": 1953,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2025-03-22": 19
     }
   }
