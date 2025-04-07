@@ -56,7 +56,7 @@
     "timeMonth": 632,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2025-04-07": 1303,
+      "2025-04-07": 1316,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -157,19 +157,19 @@
     "url": "https://yazimdestegi.com",
     "icon": "https://icons.duckduckgo.com/ip3/yazimdestegi.com.ico",
     "slug": "yazim-destegi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 2297,
-    "timeDay": 6059,
-    "timeWeek": 3279,
-    "timeMonth": 2460,
-    "timeYear": 2297,
+    "time": 2485,
+    "timeDay": 12322,
+    "timeWeek": 5676,
+    "timeMonth": 3119,
+    "timeYear": 2485,
     "dailyMinutesDown": {
-      "2025-04-07": 28
+      "2025-04-07": 37
     }
   },
   {
@@ -177,11 +177,11 @@
     "url": "https://okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/okuokut.org.ico",
     "slug": "oku-okut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 4733,
     "timeDay": 12452,
@@ -189,7 +189,7 @@
     "timeMonth": 5022,
     "timeYear": 4733,
     "dailyMinutesDown": {
-      "2025-04-07": 41
+      "2025-04-07": 43
     }
   },
   {
@@ -218,9 +218,9 @@
     "url": "https://sempozyum.okuokut.org",
     "icon": "https://icons.duckduckgo.com/ip3/sempozyum.okuokut.org.ico",
     "slug": "tsbs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
