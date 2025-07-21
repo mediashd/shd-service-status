@@ -1,7 +1,7 @@
 url: https://sempozyum.okuokut.org
-status: up
-code: 200
-responseTime: 2497
-lastUpdated: 2025-07-20T23:14:18.024Z
+status: down
+code: 503
+responseTime: 624
+lastUpdated: 2025-07-21T01:41:08.234Z
 startTime: 2025-01-27T18:34:23.901Z
 generator: Upptime <https://github.com/upptime/upptime>
